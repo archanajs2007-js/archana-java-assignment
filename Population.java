@@ -1,4 +1,4 @@
-class Population
+public class Population
 {
     public static void main(String[] args)
     {
